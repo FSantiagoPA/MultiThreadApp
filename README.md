@@ -2,7 +2,7 @@
 
 https://youtu.be/D2Q1FAYFCPc
 
-![Descripción de la imagen](img/Captura%20de%20pantalla%202025-02-20%20211717.png)
+![Descripción de la imagen](ProyectoFinalProcesosServicios/img/Captura%20de%20pantalla%202025-02-20%20211717.png)
 Este programa es una ventana de escritorio con múltiples funcionalidades, incluyendo monitoreo del clima, gestión de aplicaciones, descarga de música, chat, estadísticas y un reproductor multimedia. Se ha diseñado con una interfaz gráfica que organiza diferentes módulos en secciones.
 
 
