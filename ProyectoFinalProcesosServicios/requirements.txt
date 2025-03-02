@@ -1,0 +1,15 @@
+beautifulsoup4==4.12.3
+matplotlib==3.6.3
+requests==2.31.0
+tkinter==latest
+threading==latest
+time==latest
+mysql-connector-python==latest
+yt-dlp==latest
+psutil==6.1.0
+pygame==latest
+socket==latest
+subprocess==latest
+smtplib==latest
+imaplib==latest
+email==latest
